@@ -68,7 +68,7 @@ global.psaweria = 'BLM ADA!!!'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285838571629'
-global.nomorown = '6285838142263'
+global.nomorown = '6285768734014'
 global.namebot = '𝐊𝐋𝐈𝐙-𝐌𝐃'
 global.nameown = '𝐊𝐋𝐈𝐒 𝐆𝐍𝐓𝐍𝐆'
 
@@ -85,8 +85,8 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285838142263', '𝐊𝐋𝐈𝐙 𝐆𝐍𝐓𝐍𝐆', true],
-  ['-', 'ISI KALAU ADA', true],
+  ['6285768734014', '𝐊𝐋𝐈𝐒 𝐆𝐍𝐓𝐍𝐆', true],
+  ['6285838142263', 'KLISSS', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
